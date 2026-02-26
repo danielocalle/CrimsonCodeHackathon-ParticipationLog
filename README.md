@@ -20,7 +20,6 @@ The theme challenged participants to rethink, modernize, or creatively redesign 
 
 Below are relevant photos and screenshots demonstrating participation in the Crimson Code Hackathon.
 
-
 ### Event Participation
 ![Devpost Project](screenshots/CCH_devpost_submission.png) <br><br>
 ![My Devpost](screenshots/my_devpost.png)
@@ -36,4 +35,3 @@ Below are relevant photos and screenshots demonstrating participation in the Cri
 ---
 ### Proof of Project Demo
 ![Demo Sticker](photos/i_demoed_sticker.JPG) <br><br>
-![Me Holding Demo Sticker](photos/i_demoed_holdingsticker.JPG)
